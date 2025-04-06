@@ -4,6 +4,13 @@
     color:green;
     list-style-type: none;
 }
+
+
+#slider{
+color:blue;
+background-color: aqua;
+}
+
 *{
     margin: 0px;
     padding: 0px;
