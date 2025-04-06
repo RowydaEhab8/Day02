@@ -1,0 +1,6 @@
+#nav-bar{
+    display: inline;
+    background-color: red;
+    color:green;
+    list-style-type: none;
+}
